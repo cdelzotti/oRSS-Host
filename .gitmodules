@@ -1,0 +1,3 @@
+[submodule "trafficGenerator/Pktgen-DPDK"]
+	path = trafficGenerator/Pktgen-DPDK
+	url = https://github.com/pktgen/Pktgen-DPDK.git
